@@ -1,0 +1,26 @@
+ hr.thick-border {
+            border: 2px solid rgb(255, 255, 255);
+ }
+ a{
+    color:rgb(56,149,211)
+ }
+ 
+
+body{
+    background-color:rgb(7, 47, 95);
+    color:white
+    
+}
+   
+h1{
+   text-align:center;
+   background-color:rgb(18, 97, 160);
+}
+h2{
+    background-color:rgb(18, 97, 160);
+    text-align:center
+}
+.img1{
+    text-align:center;
+}
+

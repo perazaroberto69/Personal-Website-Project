@@ -15,12 +15,25 @@ body{
 h1{
    text-align:center;
    background-color:rgb(18, 97, 160);
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 h2{
     background-color:rgb(18, 97, 160);
+    text-align:center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+}
+.p1{
     text-align:center
 }
-.img1{
-    text-align:center;
+#p2{
+    text-align:center
 }
 
+.img2{
+    text-align:center
+}
+.p2{
+    text-align:center;
+    font-size:30px
+}
